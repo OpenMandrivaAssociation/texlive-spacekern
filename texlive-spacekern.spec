@@ -1,6 +1,6 @@
 Name:		texlive-spacekern
 Version:	63552
-Release:	1
+Release:	2
 Summary:	Kerning between words and against space
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/spacekern
