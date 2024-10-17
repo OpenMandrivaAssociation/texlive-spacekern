@@ -3,7 +3,7 @@ Version:	67604
 Release:	1
 Summary:	Kerning between words and against space
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/spacekern
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/spacekern
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/spacekern.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/spacekern.doc.r%{version}.tar.xz
